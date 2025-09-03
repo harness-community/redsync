@@ -1,4 +1,4 @@
-module github.com/go-redsync/redsync/v4
+module github.com/harness-community/redsync/v4
 
 go 1.23.0
 
