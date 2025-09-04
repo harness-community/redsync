@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	redsyncredis "github.com/go-redsync/redsync/v4/redis"
+	redsyncredis "github.com/harness-community/redsync/v4/redis"
 
 	"github.com/redis/rueidis"
 	"github.com/redis/rueidis/rueidiscompat"
